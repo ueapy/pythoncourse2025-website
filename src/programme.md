@@ -3,8 +3,8 @@
 Before the course, follow the [installation instructions](installation.md) *and make sure to run the tests*.
 
 ## Day 1 - Python basics
-Monday 1st of July 2024, 8:30 - 17:00 BST
-Location: UEA ZICER 0.02
+Monday 2nd of June 2025, 8:30 - 17:00 BST
+Location: UEA QUEENS 2.22
 
 | Notebook # | Topic                       | Type     | Time    | Duration | Teacher |
 |------------|-----------------------------|----------|---------|----------|---------|
@@ -26,8 +26,8 @@ Location: UEA ZICER 0.02
 
 
 ## Day 2 -  Functions, simple programs and arrays
-Tuesday 2nd of July 2024, 9:00 - 17:00 BST
-Location: UEA ZICER 0.02
+Tuesday 3rd of June 2025, 9:00 - 17:00 BST
+Location: UEA QUEENS 2.22
 
 | Notebook # | Topic                     | Type         | Time    | Duration | Teacher |
 |------------|---------------------------|--------------|---------|----------|---------|
@@ -48,8 +48,8 @@ Location: UEA ZICER 0.02
 |            | End of day 2              |              | 17:00   |          |         |
 
 ## Day 3 -  Plotting and data analysis
-Friday 3rd of July 2024, 9:00 - 17:00 BST
-Location: UEA ZICER 0.02
+Wednesday 4th of June 2025, 9:00 - 17:00 BST
+Location: UEA QUEENS 2.22
 
 | Notebook # | Topic                     | Type     | Time    | Duration | Teacher |
 |------------|---------------------------|----------|---------|----------|---------|

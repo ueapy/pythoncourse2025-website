@@ -5,12 +5,8 @@ https://ueapy.github.io/pythoncourse2025-website/
 
 Steps to generate pages using mkdocs:
 
-1. Check that the repo Settings > Pages
 
-* Build and deployment
-  * Branch > gh-pages and /root
-
-2. Create and activate conda environment using environment.yaml
+1. Create and activate conda environment using environment.yaml
 
     1st time
     conda env create
@@ -18,7 +14,7 @@ Steps to generate pages using mkdocs:
     then
     conda activate mkdocs
 
-3. Generate pages from markdown files and deploy to github as a branch gh-pages
+2. Generate pages from markdown files and deploy to github as a branch gh-pages
 
     ```
     mkdocs gh-deploy --clean
@@ -29,6 +25,11 @@ Steps to generate pages using mkdocs:
     ```
     mkdocs build
     ```
+
+3. Configure GitHub pages for this repo in Settings > Pages
+
+* Build and deployment
+  * Branch > gh-pages and /root
 
 
 

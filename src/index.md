@@ -14,16 +14,16 @@ Delivered by [*ARIES Doctoral Training Programme*](https://www.aries-dtp.ac.uk) 
 * The 3-day course organised by [ARIES DTP](https://www.aries-dtp.ac.uk/) and [Cefas](https://www.cefas.co.uk/) giving a hands-on introduction to [Python](http://www.python.org/) programming language.
 * You will learn Python programming, starting from the basics, and evolving into data analysis and visualisation using data formats commonly used in environmental sciences. If you have no programming experience in any language, it is recommended that  you take a 1-2 hour online course, such as [Python Basics on datacamp](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science), to get confortable with basic concepts such as variables. 
 * Suitable for both python novices and intermediate users.
-* In person course at the UEA ([Zicer Building](https://www.uea.ac.uk/about/campus-map), room 0.02). Lunch and refreshments will be provided.
+* In person course at the UEA ([Queens Building](https://www.uea.ac.uk/about/campus-map), room 2.22). Lunch and refreshments will be provided.
 * We will offer a limited number of places online for ARIES studends that are not registered with the UEA and CEFAS staff based in Weymouth.  
 
 ### When and where
 
 | Day | Time (BST) | Topics covered |
 |-----|------------|----------------|
-| 1st of July 2024 | 8:30 - 17:00 | Python basics |
-| 2nd of July 2024 | 9:00 - 17:00 | Functions, simple programs and arrays |
-| 3rd of July 2024 | 9:00 - 17:00 | Plotting and data analysis |
+| 2nd of June 2025 | 8:30 - 17:00 | Python basics |
+| 3rd of June 2025 | 9:00 - 17:00 | Functions, simple programs and arrays |
+| 4th of June 2025 | 9:00 - 17:00 | Plotting and data analysis |
 
 
 [comment]: <> (Full timetable available [here](programme.md).)
@@ -52,12 +52,12 @@ The course is free for
 
 The course is open to all UEA staff and students interested in environmental sciences for a fee of 50 GBP. See contact below for enquiries.
 
-Registeration for [ARIEs and UEA students](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2024-aries-and-uea-tickets-907499695017?aff=erelpanelorg) and for [Cefas staff](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2024-cefas-attendees-tickets-900050935577?aff=erelpanelorg)
+Registeration for [ARIEs and UEA students](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2025-aries-and-uea-tickets-907499695017?aff=erelpanelorg) and for [Cefas staff](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2025-cefas-attendees-tickets-900050935577?aff=erelpanelorg)
 
 If you have queries please contact:
 
 * [Claire (Cefas)](mailto:claire.beraud@cefas.gov.uk)
-* [Eliza (UEA, Aries)](mailto:e.karlowska@uea.ac.uk)
+* [Alice (UEA, Aries)](mailto:a.hsu@uea.ac.uk)
 
 
 ## Support after the course? 
