@@ -52,7 +52,7 @@ The course is free for
 
 The course is open to all UEA staff and students interested in environmental sciences for a fee of 50 GBP. See contact below for enquiries.
 
-Registeration for [ARIEs and UEA students](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2025-aries-and-uea-tickets-907499695017?aff=erelpanelorg) and for [Cefas staff](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2025-cefas-attendees-tickets-900050935577?aff=erelpanelorg)
+[Registeration on Eventbrite](https://www.eventbrite.com/e/1285794900159?aff=oddtdtcreator).
 
 If you have queries please contact:
 
